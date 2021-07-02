@@ -1,4 +1,4 @@
-Package: MY_PCKG
+Package: MYPCKG
 Type: Package
 Title: Temperature Conversion Package for Demonstration
 Version: 0.0.1.0
