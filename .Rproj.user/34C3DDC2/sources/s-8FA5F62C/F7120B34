@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1625231908266.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2613136373",
+    "id" : "F7120B34",
+    "lastKnownWriteTime" : 1625232000,
+    "last_content_update" : 1625232000334,
+    "path" : "~/Documents/TUTORIALS/R PACKAGE/MY_PCKG/R/temp_conversion.R",
+    "project_path" : "R/temp_conversion.R",
+    "properties" : {
+        "cursorPosition" : "26,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
